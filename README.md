@@ -1,5 +1,6 @@
 # 九原山
 ## Posts
+- #121 [DeepSeek R1 阅读清单](articles/121.md) 2025-01-29 `blog`
 - #118 [Embedding Model Fine-Tuning 案例](articles/118.md) 2024-10-26 `blog`
 - #111 [中文 Emebedding & Reranker 模型选型](articles/111.md) 2023-12-28 `blog`
 - #109 [Gemini Pro Vision 作为 表格 OCR 解决方案的简单测试](articles/109.md) 2023-12-20 `blog`
