@@ -1,6 +1,6 @@
 # 九原山
 ## Posts
-- #129 [大语言模型高质量数据集汇总（2025.5 更新）](articles/129.md) 2025-07-10 `blog`
+- #129 [大语言模型高质量数据集汇总](articles/129.md) 2025-07-10 `blog`
 - #128 [AI Tech Blog](articles/128.md) 2025-07-08 `blog`
 - #121 [DeepSeek R1 阅读清单](articles/121.md) 2025-01-29 `blog`
 - #118 [Embedding Model Fine-Tuning 案例](articles/118.md) 2024-10-26 `blog`
