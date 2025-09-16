@@ -1,5 +1,6 @@
 # 九原山
 ## Posts
+- #141 [使用Coding Agent 作为通用智能体完成 DeepResearch 任务](articles/141.md) 2025-09-16 `blog`
 - #137 [不同硬件和推理引擎模型输出的精度差异](articles/137.md) 2025-09-09 `blog`
 - #133 [免费 GPU 或廉价算力](articles/133.md) 2025-09-03 `blog`
 - #129 [大语言模型高质量数据集汇总](articles/129.md) 2025-07-10 `blog`
