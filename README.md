@@ -1,5 +1,6 @@
 # 九原山
 ## Posts
+- #143 [LLM 量化（GPTQ、GGUF）实战以及效果和推理性能实测](articles/143.md) 2025-09-22 `blog`
 - #141 [使用Coding Agent 作为通用智能体完成 DeepResearch 任务](articles/141.md) 2025-09-16 `blog`
 - #137 [不同硬件和推理引擎模型输出的精度差异](articles/137.md) 2025-09-09 `blog`
 - #133 [免费 GPU 或廉价算力](articles/133.md) 2025-09-03 `blog`
